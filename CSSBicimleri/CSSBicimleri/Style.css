@@ -1,0 +1,24 @@
+﻿h1 {
+    color: chocolate;
+    text-align: center;
+    font-size: 35px;
+}
+
+p {
+    color: crimson;
+    background-color: blanchedalmond;
+    text-align: end;
+}
+
+h3 {
+    color: darkgreen;
+    background-color: gainsboro;
+    text-indent: 50px;
+    text-decoration: overline underline;
+}
+
+h2 {
+    color: chartreuse;
+    text-align: inherit;
+    border: 2px solid pink;
+}
