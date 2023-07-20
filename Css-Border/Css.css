@@ -1,0 +1,56 @@
+     .dotted{
+        border-style:dotted;
+        border-color:fuchsia;
+        border-width:7px;
+    }
+    .dashed{
+        border-style:dashed;
+        border-color:dodgerblue;
+        border-width:7px;
+
+    }
+    .solid{
+        border-style:solid;
+        border-color:cadetblue;
+        border-width:7px;
+
+    }
+    .double{
+        border-style:double;
+        border-color:crimson;
+        border-width:7px;
+
+    }
+    .groove{
+        border-style:groove;
+        border-color:deeppink;
+        border-width:7px;
+
+    }
+    .inset{
+        border-style:inset;
+        border-color: gold;
+        border-width:7px;
+
+    }
+    .outset{
+        border-style:outset;
+       border-color: indianred; 
+       border-width:7px;
+
+    }
+    .mix{
+        border-style:dotted dashed solid double;
+        border-width: 15px;
+        border-color: greenyellow;
+    }
+    .radius{
+        border: 5px dashed purple;
+        border-radius: 10px;
+    }
+    h1{
+        color:indigo;
+    }
+    p{
+        font-size: 20px;
+    }
