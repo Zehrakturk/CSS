@@ -1,0 +1,20 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 23%;
+    
+}
+div{
+    background-color:rgba(199, 199, 192, 0.381);
+    padding-left: 16cm;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+label{
+    margin-left:-50px;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+}

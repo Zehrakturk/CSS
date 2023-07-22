@@ -1,0 +1,26 @@
+tr{
+    padding-left: 4cm; 
+    margin-left:80px;
+    background-color:#7EE5DA;
+}
+td{
+    text-align: center;
+    float: initial; 
+
+}
+table{
+    width: 36cm;
+    margin-left:80px;
+    
+    
+}
+ul{
+    list-style-type: none;
+}
+.kısa{
+    width: 7cm;
+    background-color:#70CCC2;
+}
+.koyu{
+    background-color: #62B3AA;
+}
